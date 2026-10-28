@@ -1,0 +1,13 @@
+**/bin/
+**/obj/
+**/TestResults/
+.vs/
+.idea/
+.env
+.env.*
+!.env.example
+*.user
+*.suo
+*.log
+artifacts/
+appsettings.*.local.json
